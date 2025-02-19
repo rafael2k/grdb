@@ -1,0 +1,1 @@
+	extrn domsr: proc
