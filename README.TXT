@@ -16,7 +16,7 @@
 
   The primary web page for GRDB is:
 
-  http://members.tripod.com/~ladsoft/grdb.htm
+  https://ladsoft.tripod.com/grdb_debugger.html
 
 2) Disclaimer and license
 
